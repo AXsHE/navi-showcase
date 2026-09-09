@@ -10,6 +10,10 @@ NAVI is a conversational AI voice agent built for a luxury waterfront condominiu
  
 **Talk to NAVI:** [live demo link here](https://va-navi-showcase.netlify.app/)
 
+![Welcome screen](./screenshots/welcome.png)
+
+![Active conversation](./screenshots/active-conversation.png)
+
 There's no source code in this repo. NAVI was built for a real paying client, so the production system prompt, business logic, brand assets, and API credentials belong to them and aren't public. This README documents the architecture, the features, and the engineering decisions in detail instead. Everything below reflects the real, shipped implementation.
  
 ## What it does
