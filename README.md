@@ -1,9 +1,15 @@
 # NAVI — AI Voice Advisor for Luxury Real Estate
  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-Conversational%20AI-000000?style=flat)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat&logo=netlify&logoColor=white)
+ 
 NAVI is a conversational AI voice agent built for a luxury waterfront condominium development in Mexico. Prospective buyers can talk to it directly: ask about unit types, ocean-view availability, ownership models, amenities. The interface responds by showing relevant property imagery in sync with the conversation, working like a virtual sales rep standing next to a screen.
  
-**Talk to NAVI:** [va-navi-showcase.netlify.app]
- 
+**Talk to NAVI:** [live demo link here](https://va-navi-showcase.netlify.app/)
+
 There's no source code in this repo. NAVI was built for a real paying client, so the production system prompt, business logic, brand assets, and API credentials belong to them and aren't public. This README documents the architecture, the features, and the engineering decisions in detail instead. Everything below reflects the real, shipped implementation.
  
 ## What it does
